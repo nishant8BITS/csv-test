@@ -1,4 +1,4 @@
-"ID","# of Pounds", "Name","Address Line 1","Address Line 2","City","State","Zip Code"
+"ID","# of Pounds", "Name","Address, Line 1","Address, Line 2","City","State","Zip Code"
 1,,"Zack","261 Nowhere",,"Northampton","MA",1060
 141,2,"Jack",,"123 Fake St","Newark","DE",19711
 143,2,"Roberto",,"PO Box 5912","Washington","DC","20016-1512"
